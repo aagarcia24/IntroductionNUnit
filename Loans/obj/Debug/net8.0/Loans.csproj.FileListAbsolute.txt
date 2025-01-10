@@ -9,3 +9,4 @@ D:\Pluralsight\C# Unit Testing with NUnit Path\Introduction to .NET Testing with
 D:\Pluralsight\C# Unit Testing with NUnit Path\Introduction to .NET Testing with NUnit 3\Demo\Loans\obj\Debug\net8.0\refint\Loans.dll
 D:\Pluralsight\C# Unit Testing with NUnit Path\Introduction to .NET Testing with NUnit 3\Demo\Loans\obj\Debug\net8.0\Loans.pdb
 D:\Pluralsight\C# Unit Testing with NUnit Path\Introduction to .NET Testing with NUnit 3\Demo\Loans\obj\Debug\net8.0\ref\Loans.dll
+D:\Pluralsight\C# Unit Testing with NUnit Path\Introduction to .NET Testing with NUnit 3\Demo\Loans\obj\Debug\net8.0\Loans.sourcelink.json
