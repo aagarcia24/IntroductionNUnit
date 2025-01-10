@@ -1,0 +1,11 @@
+D:\Pluralsight\C# Unit Testing with NUnit Path\Introduction to .NET Testing with NUnit 3\Demo\Loans\bin\Debug\net9.0\Loans.deps.json
+D:\Pluralsight\C# Unit Testing with NUnit Path\Introduction to .NET Testing with NUnit 3\Demo\Loans\bin\Debug\net9.0\Loans.dll
+D:\Pluralsight\C# Unit Testing with NUnit Path\Introduction to .NET Testing with NUnit 3\Demo\Loans\bin\Debug\net9.0\Loans.pdb
+D:\Pluralsight\C# Unit Testing with NUnit Path\Introduction to .NET Testing with NUnit 3\Demo\Loans\obj\Debug\net9.0\Loans.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pluralsight\C# Unit Testing with NUnit Path\Introduction to .NET Testing with NUnit 3\Demo\Loans\obj\Debug\net9.0\Loans.AssemblyInfoInputs.cache
+D:\Pluralsight\C# Unit Testing with NUnit Path\Introduction to .NET Testing with NUnit 3\Demo\Loans\obj\Debug\net9.0\Loans.AssemblyInfo.cs
+D:\Pluralsight\C# Unit Testing with NUnit Path\Introduction to .NET Testing with NUnit 3\Demo\Loans\obj\Debug\net9.0\Loans.csproj.CoreCompileInputs.cache
+D:\Pluralsight\C# Unit Testing with NUnit Path\Introduction to .NET Testing with NUnit 3\Demo\Loans\obj\Debug\net9.0\Loans.dll
+D:\Pluralsight\C# Unit Testing with NUnit Path\Introduction to .NET Testing with NUnit 3\Demo\Loans\obj\Debug\net9.0\refint\Loans.dll
+D:\Pluralsight\C# Unit Testing with NUnit Path\Introduction to .NET Testing with NUnit 3\Demo\Loans\obj\Debug\net9.0\Loans.pdb
+D:\Pluralsight\C# Unit Testing with NUnit Path\Introduction to .NET Testing with NUnit 3\Demo\Loans\obj\Debug\net9.0\ref\Loans.dll

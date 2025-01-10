@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = Loans
+build_property.ProjectDir = D:\Pluralsight\C# Unit Testing with NUnit Path\Introduction to .NET Testing with NUnit 3\Demo\Loans\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
